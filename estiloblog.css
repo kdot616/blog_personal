@@ -1,0 +1,23 @@
+p{ 
+   color:pink;
+   text-align:center; 
+   font-family:verdand,Geneva,Tahoma,sans-serif;
+   background:black;
+   }
+ul{
+     list-style-type:none;
+     margin:0;
+     padding:0;
+     background-color:black; 
+     overflow:hidden;
+    }
+li{
+     float:center;
+    }
+  li a {
+    display:block;
+    color:pink;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+  }
